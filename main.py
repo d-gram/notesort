@@ -1,4 +1,4 @@
-# Direct copy fromComputer vision engineer (computervisioneng)
+# Direct copy from Computer vision engineer (computervisioneng)
 # https://github.com/computervisioneng/color-detection-opencv/blob/master/main.py
 
 import cv2
